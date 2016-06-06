@@ -7,6 +7,6 @@ permalink: /recipes-to-try/
 
 <div class="tiles">
 {% for post in site.categories.recipes-to-try %}
-  {% include post-grid.html %}
+  {% include archive-single.html %}
 {% endfor %}
 </div><!-- /.tiles -->

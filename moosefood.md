@@ -7,6 +7,6 @@ permalink: /moosefood/
 
 <div class="tiles">
 {% for post in site.categories.moosefood %}
-  {% include post-grid.html %}
+  {% include archive-single.html %}
 {% endfor %}
 </div><!-- /.tiles -->
