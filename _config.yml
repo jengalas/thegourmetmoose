@@ -11,8 +11,8 @@ title                    : "The Gourmet Moose"
 title_separator          : "-"
 name                     : "Zhanna"
 description              : "Swamp grass and beyond"
-url                      : https://jengalas.github.io/thegourmetmoose
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : https://jengalas.github.io
+baseurl                  : /thegourmetmoose
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -170,6 +170,18 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 # Archives
 #  Type
