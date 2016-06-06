@@ -5,8 +5,7 @@ excerpt:
 tags:
   - dessert
   - American
-image:
-  feature:
+header:
   teaser: pineapple-upside-down-cake-150x150.jpg
   thumb: pineapple-upside-down-cake-150x150.jpg
 ---

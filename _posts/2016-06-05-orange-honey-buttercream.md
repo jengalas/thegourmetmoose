@@ -5,8 +5,7 @@ excerpt:
 tags:
   - dessert
   - American
-image:
-  feature:
+header:
   teaser:
   thumb:
 ---
