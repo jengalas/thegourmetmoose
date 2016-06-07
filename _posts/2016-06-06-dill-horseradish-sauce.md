@@ -21,4 +21,4 @@ header:
 * freshly ground black pepper to taste
 
 ## INSTRUCTIONS
-1.Mix all ingredients and chill. Best if made a few hours before serving.
+1. Mix all ingredients and chill. Best if made a few hours before serving.
