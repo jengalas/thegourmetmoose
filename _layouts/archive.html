@@ -13,6 +13,7 @@ layout: default
 {% endif %}
 
 <div id="main" role="main">
+  {% include sidebar.html %}
 
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
@@ -20,9 +21,4 @@ layout: default
     {% endunless %}
     {{ content }}
   </div>
-
-<div class="sidebar__right">
-  Whatever I want to put in sidebar
-</div>
-
 </div>
