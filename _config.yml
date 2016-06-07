@@ -14,7 +14,7 @@ description              : "Swamp grass and beyond"
 url                      : https://jengalas.github.io
 baseurl                  : /thegourmetmoose
 gh_repo                  :
-teaser                   : recipe-no-image.jpg
+teaser                   : recipe-no-image.png
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
