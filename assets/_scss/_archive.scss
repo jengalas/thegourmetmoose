@@ -3,12 +3,10 @@
    ========================================================================== */
 
 .archive {
-  background-color: #522d25;
   margin-bottom: 2em;
 
   @include breakpoint($medium) {
     @include span(12 of 12);
-    background-color: #522d25;
   }
 
   @include breakpoint($large) {
