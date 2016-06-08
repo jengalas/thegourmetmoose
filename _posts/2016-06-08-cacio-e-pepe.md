@@ -5,7 +5,7 @@ tags:
   - entrée
   - Italian
 header:
-  teaser: 
+  teaser: cacio-e-pepe-150x150.jpg
 ---
 
 ## INGREDIENTS
