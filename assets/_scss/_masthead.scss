@@ -4,7 +4,6 @@
 
 .masthead {
   position: relative;
-  border-bottom: 1px solid $border-color;
   animation: intro 0.3s both;
   animation-delay: 0.15s;
   z-index: 20;
@@ -16,7 +15,7 @@
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
-      max-width: $x-large;
+      max-width: $large;
     }
 
     nav {
