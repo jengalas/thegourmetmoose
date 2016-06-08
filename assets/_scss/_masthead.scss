@@ -11,6 +11,7 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
+    background-color: #2b1915;
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
 
