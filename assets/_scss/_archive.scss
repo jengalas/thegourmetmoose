@@ -8,6 +8,7 @@
 
   @include breakpoint($medium) {
     @include span(12 of 12);
+    background-color: #522d25;
   }
 
   @include breakpoint($large) {
