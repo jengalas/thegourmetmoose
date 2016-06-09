@@ -8,6 +8,7 @@
   animation: intro 0.3s both;
   animation-delay: 0.35s;
   background-color: #522d25;
+  border: 15px solid #3a221c;
 
   @include breakpoint($x-large) {
     max-width: $large;
