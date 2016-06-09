@@ -49,10 +49,9 @@
 
 .page__content {
 
-  h2#ingredients {
+  h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
-    color: red;
   }
 
   p, li, dl {
@@ -83,7 +82,7 @@
       }
     }
 
-  #ingredients {
+  h2#ingredients > ul em {
      color: #666;
      font-size: 85%;
   }
