@@ -266,13 +266,13 @@
 }
 
 .page__taxonomy-item {
+  background-color: $taxonomy-item-background;
+  color:
   display: inline-block;
   margin-right: 5px;
   margin-bottom: 8px;
-  padding: 5px 10px;
+  padding: 2px 5px;
   text-decoration: none;
-  border: 1px solid $light-gray;
-  border-radius: $border-radius;
 
   &:hover {
     text-decoration: none;
