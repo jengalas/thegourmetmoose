@@ -16,7 +16,6 @@ layout: default
 
 {% if page.header.teaser %}
   {% capture teaser %}{{ page.header.teaser }}{% endcapture %}
-
 {% endif %}
 
 <div id="main" role="main">
@@ -38,8 +37,9 @@ layout: default
         </header>
       {% endunless %}
 
-
+      {% if page.header.teaser %}
         <img src="{{ base_path }}/images/{{ teaser }}" class="align-right" alt="">
+      {% endif %}
 
       {% if page.excerpt %}
         <p>{{ page.excerpt }}</p>
