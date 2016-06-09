@@ -13,7 +13,7 @@ sidebar:
     text: "Some text here."
   - title: "Another Title"
     text: "More text here."
-excerpt: *"Meyer lemons give this a subtle floral flavor. This is perfect on Lemon Cupcakes."*
+excerpt: "Meyer lemons give this a subtle floral flavor. This is perfect on Lemon Cupcakes."
 
 ---
 
