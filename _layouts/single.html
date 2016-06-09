@@ -45,6 +45,8 @@ layout: default
               "{{ teaser | prepend: "/images/" | prepend: base_path }}"
             {% endif %}
             alt="">
+        {{post.excerpt}}
+
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label }}</a></div>{% endif %}
       </section>

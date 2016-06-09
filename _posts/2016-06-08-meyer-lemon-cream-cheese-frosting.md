@@ -19,8 +19,6 @@ excerpt: *"Meyer lemons give this a subtle floral flavor. This is perfect on Lem
 
 *Meyer lemons give this a subtle floral flavor. This is perfect on Lemon Cupcakes.*
 
-{{post.excerpt}}
-
 ## INGREDIENTS
 * 3 ounces cream cheese *softened*
 * 1½-2 cups powdered sugar *or as much as needed for desired thickness*
