@@ -14,6 +14,12 @@ layout: default
   {% endunless %}
 {% endif %}
 
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% capture teaser %}{{ site.teaser }}{% endcapture %}
+{% endif %}
+
 <div id="main" role="main">
   {% include sidebar.html %}
 
