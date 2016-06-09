@@ -150,10 +150,6 @@
       text-shadow: 1px 1px 4px rgba(#000, 0.5);
     }
 
-    .page__meta a {
-      color: $taxonomy-item-text;
-    }
-
     .page__lead {
       max-width: $medium;
     }
@@ -244,7 +240,7 @@
   }
 
   a {
-    color: inherit;
+    color: #fff;
   }
 }
 
