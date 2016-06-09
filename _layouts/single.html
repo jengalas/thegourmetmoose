@@ -37,7 +37,7 @@ layout: default
             {% if teaser contains "://" %}
               "{{ teaser }}"
             {% else %}
-              "/images/{{ base_path }}/{{ teaser }}"
+              "{{ base_path }}/images/{{ teaser }}"
             {% endif %}
             alt="">
       {% if page.excerpt %}
