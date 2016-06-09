@@ -5,7 +5,7 @@ tags:
   - side dish
   - salad
   - American
-excerpt: "This makes slightly more than 10 cups. Use a Hefty 10-cup round casserole foil pan measuring 9¼" diameter by 2¾" deep (packaging states it's for 3-quart recipes)."
+excerpt: "This makes slightly more than 10 cups. Use a Hefty 10-cup round casserole foil pan measuring 9¼-inch diameter by 2¾-inch deep (packaging states it's for 3-quart recipes)."
 header:
   teaser: 
 ---
