@@ -33,7 +33,9 @@ layout: default
         </header>
       {% endunless %}
 
-      <img src="{{ page.header.teaser }}" class="align-right">
+      <img src="{% if teaser contains "://" %}{{ page.header.teaser }}"{% else %}
+              "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+            {% endif %} class="align-right" alt="">
       {% if page.excerpt %}
         <p>{{ page.excerpt }}</p>
       {% endif %}
