@@ -4,11 +4,10 @@ categories: moosefood
 tags: 
   - dessert
   - American
+excerpt: "These are delicious, especially when paired with Meyer Lemon Cream Cheese Frosting. Blueberry Buttercream Frosting also sounds fabulous! We prefer Meyer Lemons."
 header:
   teaser: lemon-cupcake-150x150.jpg
 ---
-
-*These are delicious, especially when paired with Meyer Lemon Cream Cheese Frosting. Blueberry Buttercream Frosting also sounds fabulous! We prefer Meyer Lemons.*
 
 ## INGREDIENTS
 * 3 cups all-purpose flour

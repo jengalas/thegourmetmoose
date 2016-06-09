@@ -4,20 +4,10 @@ categories: moosefood
 tags: 
   - dessert
   - American
-header:
-  teaser: https://jengalas.github.io/thegourmetmoose/images/meyer-lemon-frosting-150x150.jpg
-sidebar:
-  - title: "Title"
-    image: http://placehold.it/450x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
 excerpt: "Meyer lemons give this a subtle floral flavor. This is perfect on Lemon Cupcakes."
-
+header:
+  teaser: meyer-lemon-frosting-150x150.jpg
 ---
-
-*Meyer lemons give this a subtle floral flavor. This is perfect on Lemon Cupcakes.*
 
 ## INGREDIENTS
 * 3 ounces cream cheese *softened*
