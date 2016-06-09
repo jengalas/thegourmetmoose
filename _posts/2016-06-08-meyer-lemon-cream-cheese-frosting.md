@@ -13,11 +13,13 @@ sidebar:
     text: "Some text here."
   - title: "Another Title"
     text: "More text here."
+excerpt: *"Meyer lemons give this a subtle floral flavor. This is perfect on Lemon Cupcakes."*
+
 ---
 
 *Meyer lemons give this a subtle floral flavor. This is perfect on Lemon Cupcakes.*
 
-{{post.header.teaser}}
+{{post.excerpt}}
 
 ## INGREDIENTS
 * 3 ounces cream cheese *softened*
