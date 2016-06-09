@@ -39,7 +39,9 @@ layout: default
         </header>
       {% endunless %}
 
-      <img src="{{ base_path }}/images/{{ teaser }}" class="align-right" alt="">
+      {% if {{ teaser }} %}
+        <img src="{{ base_path }}/images/{{ teaser }}" class="align-right" alt="">
+      {% endif %}
       {% if page.excerpt %}
         <p>{{ page.excerpt }}</p>
       {% endif %}
