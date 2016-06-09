@@ -37,14 +37,6 @@ layout: default
         </header>
       {% endunless %}
 
-      {% if page.header.teaser %}
-        <img src="{{ base_path }}/images/{{ teaser }}" class="align-right" alt="">
-      {% endif %}
-
-      {% if page.excerpt %}
-        <p>{{ page.excerpt }}</p>
-      {% endif %}
-
       <section class="page__content" itemprop="text">
         {% if page.header.teaser %}
           <img src="{{ base_path }}/images/{{ teaser }}" class="align-right" alt="">
@@ -53,6 +45,7 @@ layout: default
         {% if page.excerpt %}
           <p>{{ page.excerpt }}</p>
         {% endif %}
+
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label }}</a></div>{% endif %}
       </section>
