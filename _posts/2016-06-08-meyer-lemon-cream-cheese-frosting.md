@@ -8,7 +8,7 @@ header:
   teaser: meyer-lemon-frosting-150x150.jpg
 sidebar:
   - title: "Title"
-    image: http://placehold.it/350x250
+    image: http://placehold.it/450x250
     image_alt: "image"
     text: "Some text here."
   - title: "Another Title"
