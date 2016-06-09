@@ -14,7 +14,7 @@ layout: default
   {% endunless %}
 {% endif %}
 
-{% if post.header.teaser %}
+{% if post.header.teaser != "recipe-no-image.png" %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
   {% capture teaser %}{{ site.teaser }}{% endcapture %}
