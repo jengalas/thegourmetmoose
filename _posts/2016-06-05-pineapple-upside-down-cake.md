@@ -1,7 +1,6 @@
 ---
 title: "Pineapple Upside-Down Cake"
 categories: moosefood
-excerpt:
 tags:
   - dessert
   - American

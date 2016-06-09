@@ -1,15 +1,14 @@
 ---
 title: Orange Honey Buttercream
 categories: moosefood
-excerpt:
 tags:
   - dessert
   - American
+excerpt: "Great as a buttercream alternative to Fluffy Orange Honey Frosting for Earl Grey cupcakes!"
 header:
   teaser:
   thumb:
 ---
-*Great as a buttercream alternative to Fluffy Orange Honey Frosting for Earl Grey cupcakes!*
 
 ## INGREDIENTS
 * ½ cup butter room temperature

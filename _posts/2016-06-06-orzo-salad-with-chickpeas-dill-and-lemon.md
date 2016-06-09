@@ -7,7 +7,6 @@ tags:
 header:
   teaser: orzosalad-150x150.jpg
 ---
-*This works really well on salmon!*
 
 ## INGREDIENTS
 * 8 ounces uncooked orzo pasta

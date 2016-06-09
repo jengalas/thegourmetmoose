@@ -5,11 +5,10 @@ tags:
   - side dish
   - salad
   - American
+excerpt: "This makes slightly more than 10 cups. Use a Hefty 10-cup round casserole foil pan measuring 9¼" diameter by 2¾" deep (packaging states it's for 3-quart recipes)."
 header:
   teaser: 
 ---
-
-*This makes slightly more than 10 cups. Use a Hefty 10-cup round casserole foil pan measuring 9¼" diameter by 2¾" deep (packaging states it's for 3-quart recipes).*
 
 ## INGREDIENTS
 * 4 cups (1-pound box) uncooked elbow macaroni

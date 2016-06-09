@@ -4,11 +4,10 @@ categories: moosefood
 tags: 
   - salad
   - American
+excerpt: "All measures are approximate and more or less of each ingredient can be used as desired. Cooked salmon fillet, canned tuna or diced chicken or turkey may be substituted for shrimp."
 header:
   teaser: shrimp-salad-150x150.jpg
 ---
-
-*All measures are approximate and more or less of each ingredient can be used as desired. Cooked salmon fillet, canned tuna or diced chicken or turkey may be substituted for shrimp.*
 
 ## INGREDIENTS
 * 1 pound cooked shrimp *coarsely diced*

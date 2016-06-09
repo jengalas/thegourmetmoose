@@ -4,11 +4,10 @@ categories: moosefood
 tags: 
   - dessert
   - Eastern European
+excerpt: "Rich’s favorite cookies! Can be stored frozen; allow to thaw for 15 minutes before serving."
 header:
   teaser: lekvar-cookies-150x150.jpg
 ---
-
-*Rich’s favorite cookies! Can be stored frozen; allow to thaw for 15 minutes before serving.*
 
 ## INGREDIENTS
 * 1½ pounds lekvar

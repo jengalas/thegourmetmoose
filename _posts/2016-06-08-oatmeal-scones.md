@@ -5,11 +5,10 @@ tags:
   - dessert
   - breakfast
   - British
+excerpt: "For variations, try adding ½ cup of chopped dried apricots or cherries (or other dried fruit) along with the cooled oats. Another excellent combination is ½ cup dried cranberries, and ¾ teaspoon of orange oil added to the milk, cream, and egg mixture."
 header:
   teaser: cranberry-scones-150x150.jpg
 ---
-
-*For variations, try adding ½ cup of chopped dried apricots or cherries (or other dried fruit) along with the cooled oats. Another excellent combination is ½ cup dried cranberries, and ¾ teaspoon of orange oil added to the milk, cream, and egg mixture.*
 
 ## INGREDIENTS
 * 4½ ounces old fashioned rolled oats

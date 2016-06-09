@@ -5,10 +5,10 @@ tags:
   - condiment
   - Mediterranean
   - seafood
+excerpt: "This works really well on salmon!" 
 header:
   teaser: dill-sauce-150x150.jpg
 ---
-*This works really well on salmon!*
 
 ## INGREDIENTS
 * ⅓ cup mayonnaise

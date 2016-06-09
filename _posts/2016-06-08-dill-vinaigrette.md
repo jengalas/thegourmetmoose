@@ -4,11 +4,10 @@ categories: moosefood
 tags: 
   - salad
   - condiment
+excerpt: "Mom substituted honey for the sugar and Dijon mustard for the dry mustard. She also uses fresh dill instead of dried."
 header:
   teaser: 
 ---
-
-*Mom substitute honey for the sugar and Dijon mustard for the dry mustard. She also uses fresh dill instead of dried.*
 
 ## INGREDIENTS
 * ¼ cup olive oil
@@ -22,4 +21,4 @@ header:
 * ⅛ teaspoon ground black pepper
 
 ## INSTRUCTIONS
-In a blender, combine the oil, vinegar, sugar, dill weed, salt, onion powder, garlic powder, dry mustard and pepper. Blend until smooth, cover and refrigerate until chilled.
+1. In a blender, combine the oil, vinegar, sugar, dill weed, salt, onion powder, garlic powder, dry mustard and pepper. Blend until smooth, cover and refrigerate until chilled.

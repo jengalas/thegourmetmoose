@@ -4,11 +4,10 @@ categories: moosefood
 tags: 
   - French
   - condiment
+excerpt: "This is excellent over fresh pineapple and strawberries!"
 header:
   teaser: 
 ---
-
-*This is excellent over fresh pineapple and strawberries!*
 
 ## INGREDIENTS
 * 2 large egg yolks

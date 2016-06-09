@@ -4,11 +4,10 @@ categories: moosefood
 tags: 
   - salad
   - Mediterranean
+excerpt: "This is great as a side salad or for breakfast. The couscous will continue to absorb some of the dressing as it sits, so add more dressing to moisten if necessary; we prefer it on the drier side. We strongly prefer the &quot;Lite&quot; version of the dressing; we found the regular to be far too oily."
 header:
   teaser: 
 ---
-
-*This is great as a side salad or for breakfast. The couscous will continue to absorb some of the dressing as it sits, so add more dressing to moisten if necessary; we prefer it on the drier side. We strongly prefer the "Lite" version of the dressing; we found the regular to be far too oily.*
 
 ## INGREDIENTS
 * 10.5 ounces (½ jar) Osem Israeli couscous *sold at Wegmans*

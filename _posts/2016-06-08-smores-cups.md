@@ -4,13 +4,10 @@ categories: moosefood
 tags: 
   - dessert
   - American
+excerpt: "A note on the butter: the original recipe calls for 6 tablespoons. I found this to be too much. I use between 4 and 5 tablespoons. You want enough so that all of the crumbs are moistened and will hold together, but are not greasy. A note on chocolate dipping: I found that I got much better results spooning the melted chocolate onto the top."
 header:
   teaser: 
 ---
-
-*A note on the butter: the original recipe calls for 6 tablespoons. I found this to be too much. I use between 4 and 5 tablespoons. You want enough so that all of the crumbs are moistened and will hold together, but are not greasy.*
-
-*A note on chocolate dipping: I found that I got much better results spooning the melted chocolate onto the top.*
 
 ## INGREDIENTS
 * 7 whole graham crackers *finely crushed; enough to make 1 cup of crumbs*
