@@ -34,7 +34,7 @@ layout: default
         </header>
       {% endunless %}
       <p>{{ page.excerpt }}</p>
-      <img src="{{ teaser }}">
+      <img src="{{ page.header.teaser }}">
       <section class="page__content" itemprop="text">
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label }}</a></div>{% endif %}
