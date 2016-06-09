@@ -82,7 +82,7 @@
       }
     }
 
-  h2#ingredients + ul em {
+  #ingredients ~ ul em {
      color: #666;
      font-size: 85%;
   }
