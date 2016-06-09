@@ -5,7 +5,7 @@ tags:
   - dessert
   - American
 header:
-  teaser: meyer-lemon-frosting-150x150.jpg
+  teaser: https://jengalas.github.io/thegourmetmoose/images/meyer-lemon-frosting-150x150.jpg
 sidebar:
   - title: "Title"
     image: http://placehold.it/450x250

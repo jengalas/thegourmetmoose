@@ -14,8 +14,8 @@ layout: default
   {% endunless %}
 {% endif %}
 
-{% if post.teaser %}
-  {% capture teaser %}{{ post.teaser }}{% endcapture %}
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% endif %}
 
 <div id="main" role="main">
