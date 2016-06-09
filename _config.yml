@@ -182,6 +182,13 @@ defaults:
       comments: true
       share: false
       related: false
+    sidebar:
+    - title: "Title"
+      image: http://placehold.it/450x250
+      image_alt: "image"
+      text: "Some text here."
+    - title: "Another Title"
+      text: "More text here."
 
 # Archives
 #  Type
