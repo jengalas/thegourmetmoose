@@ -29,6 +29,11 @@
     .page__meta,
     .page__share {
       @include full();
+
+    .recipe-excerpt {
+      font-style: italic;
+    }
+
     }
   }
 }
