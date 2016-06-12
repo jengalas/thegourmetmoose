@@ -6,7 +6,7 @@ tags:
   - American
 excerpt:
 header:
-  teaser: 
+  teaser: cranberry-sauce-150x150.jpg
 ---
 
 ## INGREDIENTS
