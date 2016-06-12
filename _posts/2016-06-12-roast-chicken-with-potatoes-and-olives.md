@@ -10,16 +10,16 @@ header:
 ---
 
 ## INGREDIENTS
-* 1 bay leaf crushed
+* 1 bay leaf *crushed*
 * 1 tsp. fennel seeds (or rosemary)
 * ½ tsp. crushed red pepper flakes
-* 1½ lbs. fingerling potatoes halved
-* ½ cup Kalamata olives pitted
-* 4 Tbl. olive oil divided
+* 1½ lbs. fingerling potatoes *halved*
+* ½ cup Kalamata olives *pitted*
+* 4 Tbl. olive oil *divided*
 * kosher salt
 * freshly ground pepper
-* 4 chicken legs, thigh and drumstick about 3 lbs.
-* ½ cup flat-leaf parsley chopped
+* 4 chicken legs, thigh and drumstick *about 3 lbs.*
+* ½ cup flat-leaf parsley *chopped*
 * 1 tsp. lemon zest
 
 ## INSTRUCTIONS
