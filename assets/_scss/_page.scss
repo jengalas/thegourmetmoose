@@ -11,6 +11,7 @@
   border-color: #3a221c;
   border-style: solid;
   border-width: 0 15px 15px 15px;
+  margin-top: 1em;
 
   @include breakpoint($x-large) {
     max-width: $large;
