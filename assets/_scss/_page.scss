@@ -69,7 +69,6 @@
     color: #c59c87;
     font-weight: normal;
     font-size: 1.15em;
-    padding-bottom: 0.5em;
   }
 
   p, li, dl {
@@ -99,6 +98,11 @@
         box-shadow: 0 0 10px rgba(#000, 0.25);
       }
     }
+  }
+
+  ul,
+  ol {
+    padding-left:1.7em;
   }
 
   #ingredients ~ ul em {
