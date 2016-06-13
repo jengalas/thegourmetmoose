@@ -79,8 +79,9 @@ a:hover {
   }
 
   .archive__item-title {
-    text-decoration: none;
+    border-bottom: 1px dotted;
     color: #e8a98a;
+    text-decoration: none;
   }
 }
 
