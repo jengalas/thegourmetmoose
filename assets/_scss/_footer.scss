@@ -19,7 +19,7 @@
     background: url("https://gourmetmoose-jengalas.rhcloud.com/wp-content/uploads/2013/04/green_canvas_background1.jpg");
 
     @include breakpoint($x-large) {
-      max-width: $x-large;
+      max-width: $large;
     }
   }
 
