@@ -13,6 +13,7 @@
     @include clearfix;
     background-color: #3a221c;
     padding: 1em 1em 0 1em;
+    margin-bottom: -1.1em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
