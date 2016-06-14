@@ -27,8 +27,8 @@ header:
 
 ### Rice
 1. Rinse the rice, then soak it in water for 30 minutes. Drain some of the water, leaving ¼ inch of water remaining on top of rice.
-Cover container and microwave on high for about 10 minutes. After 10 minutes, check the rice and fold it over a couple of times; then cover it again and return it to microwave for an additional 4 minutes.
-2.Mix sugar and ½ can coconut milk and stir until sugar dissolves. Pour this sauce over the rice and coat completely. Cover, and let stand for 20 minutes and serve at room temperature. Slice mangos into bite size pieces and serve with sweet rice.
+2. Cover container and microwave on high for about 10 minutes. After 10 minutes, check the rice and fold it over a couple of times; then cover it again and return it to microwave for an additional 4 minutes.
+3. Mix sugar and ½ can coconut milk and stir until sugar dissolves. Pour this sauce over the rice and coat completely. Cover, and let stand for 20 minutes and serve at room temperature. Slice mangos into bite size pieces and serve with sweet rice.
 
 ### Cream Sauce (Topping)
 1. Mix sugar and remaining ½ can coconut milk and stir until sugar dissolves.
