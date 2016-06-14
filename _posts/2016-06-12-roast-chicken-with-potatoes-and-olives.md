@@ -6,7 +6,7 @@ tags:
   - Mediterranean
 excerpt:
 header:
-  teaser: 
+  teaser: roasted-chicken-150x150.jpg
 ---
 
 ## INGREDIENTS
