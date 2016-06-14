@@ -6,7 +6,7 @@ tags:
   - American
 excerpt:
 header:
-  teaser: 
+  teaser: stuffed-green-peppers-150x150.jpg
 ---
 
 ## INGREDIENTS
