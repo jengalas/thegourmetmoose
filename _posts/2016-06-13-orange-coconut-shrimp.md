@@ -11,16 +11,16 @@ header:
 
 ## INGREDIENTS
 * 1-2 pounds large shrimp (raw) *peeled, deveined, seasoned with salt and pepper*
-2 tablespoons coconut oil
-2 tablespoons scallion whites *minced*
-1 tablespoon garlic *minced*
-1 cup orange juice
-1 tablespoon fresh ginger *grated*
-1 tablespoon orange zest
-1 cup canned coconut milk
-½ teaspoon cornstarch
-½ teaspoon red pepper flakes
-¼ cup scallion greens *thinly sliced*
+* 2 tablespoons coconut oil
+* 2 tablespoons scallion whites *minced*
+* 1 tablespoon garlic *minced*
+* 1 cup orange juice
+* 1 tablespoon fresh ginger *grated*
+* 1 tablespoon orange zest
+* 1 cup canned coconut milk
+* ½ teaspoon cornstarch
+* ½ teaspoon red pepper flakes
+* ¼ cup scallion greens *thinly sliced*
 
 ## INSTRUCTIONS
 1. Sauté shrimp in 1 tablespoon oil in a sauté pan over medium-high heat until pink and beginning to curl, 2-3 minutes; remove from pan. Heat remaining 1 tablespoon oil in pan. Add scallion whites and garlic; cook 1 minute.
