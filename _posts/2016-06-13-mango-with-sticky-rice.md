@@ -10,6 +10,7 @@ header:
 ---
 
 ## INGREDIENTS
+
 ### Rice with Mango
 * 2 cups sweet/sticky rice
 * 1 cup sugar
@@ -23,6 +24,7 @@ header:
 * ½ teaspoon cornstarch
 
 ## INSTRUCTIONS
+
 ### Rice
 1. Rinse the rice, then soak it in water for 30 minutes. Drain some of the water, leaving ¼ inch of water remaining on top of rice.
 Cover container and microwave on high for about 10 minutes. After 10 minutes, check the rice and fold it over a couple of times; then cover it again and return it to microwave for an additional 4 minutes.
