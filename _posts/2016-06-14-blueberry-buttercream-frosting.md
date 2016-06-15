@@ -7,7 +7,7 @@ tags:
   - American
 excerpt: 
 header:
-  teaser: blueberry-buttercream-150x150
+  teaser: blueberry-buttercream-150x150.jpg
 ---
 
 ## INGREDIENTS
