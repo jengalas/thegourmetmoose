@@ -3,6 +3,7 @@ title: "Lavender Scones"
 categories: moosefood
 tags: 
   - breakfast
+  - bread
   - dessert
   - British
 excerpt: 
