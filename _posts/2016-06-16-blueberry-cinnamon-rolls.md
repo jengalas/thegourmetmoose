@@ -38,12 +38,12 @@ header:
 
 ## INSTRUCTIONS
 1. Preheat oven to 350°F. Combine ¼ cup milk, sugar, salt, and 3 tablespoons butter in a saucepan; heat until butter melts. Cool to 105°F—115°F. Dissolve yeast in warm water in a large mixing bowl; let stand 5 minutes.
-* Stir in milk mixture, 1½ cups flour, and egg; beat at medium speed of an electric mixer until smooth. Stir in remaining ¾ cup flour.
-* Turn dough out onto a lightly floured surface, and knead until smooth and elastic (about 8 minutes).
-* Place in a well-greased bowl, turning to grease top. Cover and let rise in a warm place (85°F), free from drafts, 1 hour (dough will not quite double in bulk).
-* Punch dough down; turn dough out onto a lightly floured surface.
-* Roll dough into a 12- x 8-inch rectangle; spread with 2 tablespoons butter. Combine brown sugar and cinnamon; sprinkle mixture over rectangle. Sprinkle with blueberries.
-* Roll dough jellyroll fashion, starting at long side. Pinch seam to seal (do not seal ends). Cut roll into 1-inch slices; place slices, cut side down, in greased 8-inch square pan. Brush tops with 1 tablespoon melted butter. Using a fork, gently lift center of rolls to form a peak.
-* Cover and let rise in a warm place, free from drafts, about 40 minutes (rolls will not double in bulk).
-* Bake at 350°F for 35 minutes.
-* If glaze is desired, combine powdered sugar and 2 tablespoons milk, stirring well. Drizzle over warm rolls.
+2. Stir in milk mixture, 1½ cups flour, and egg; beat at medium speed of an electric mixer until smooth. Stir in remaining ¾ cup flour.
+3. Turn dough out onto a lightly floured surface, and knead until smooth and elastic (about 8 minutes).
+4. Place in a well-greased bowl, turning to grease top. Cover and let rise in a warm place (85°F), free from drafts, 1 hour (dough will not quite double in bulk).
+5.  Punch dough down; turn dough out onto a lightly floured surface.
+6.  Roll dough into a 12- x 8-inch rectangle; spread with 2 tablespoons butter. Combine brown sugar and cinnamon; sprinkle mixture over rectangle. Sprinkle with blueberries.
+7. Roll dough jellyroll fashion, starting at long side. Pinch seam to seal (do not seal ends). Cut roll into 1-inch slices; place slices, cut side down, in greased 8-inch square pan. Brush tops with 1 tablespoon melted butter. Using a fork, gently lift center of rolls to form a peak.
+9. Cover and let rise in a warm place, free from drafts, about 40 minutes (rolls will not double in bulk).
+10. Bake at 350°F for 35 minutes.
+11. If glaze is desired, combine powdered sugar and 2 tablespoons milk, stirring well. Drizzle over warm rolls.
