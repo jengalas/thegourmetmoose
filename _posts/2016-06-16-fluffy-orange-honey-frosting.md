@@ -5,7 +5,7 @@ tags:
   - condiment
   - dessert
   - American
-excerpt: "This is awesome on ()[Earl Grey Cupcakes]! For different flavors, try vanilla or lemon extract instead of orange."
+excerpt: "This is awesome on [Earl Grey Cupcakes]()! For different flavors, try vanilla or lemon extract instead of orange."
 header:
   teaser:
 ---
