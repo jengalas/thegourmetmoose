@@ -187,7 +187,7 @@ defaults:
         image: http://placehold.it/450x250
         image_alt: "image"
         text: "Some text here."
-      - title: "Another Title"
+      - title: "Cuisines & Courses"
         text: "More text here."
 
 # Archives
