@@ -10,8 +10,6 @@ header:
   teaser:
 ---
 
-{{ page.excerpt | replace: '!SITE_URL!', site.url }}
-
 ## INGREDIENTS
 * ½ cup honey
 * 1 egg white
