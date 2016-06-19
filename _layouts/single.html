@@ -43,7 +43,7 @@ layout: default
         {% endif %}
 
         {% if page.excerpt %}
-          <p class="recipe-excerpt">{{ page.excerpt | replace: '!SITE_URL!', site.linkpath | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+          <p class="recipe-excerpt">{{ page.excerpt | replace: '!SITE_URL!', site.baseurl | markdownify | remove: '<p>' | remove: '</p>' }}</p>
         {% endif %}
 
         {{ content }}
