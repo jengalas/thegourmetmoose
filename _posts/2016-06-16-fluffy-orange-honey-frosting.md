@@ -5,10 +5,12 @@ tags:
   - condiment
   - dessert
   - American
-excerpt: "This is awesome on [Earl Grey Cupcakes]({{ site.baseurl }}/moosefood/earl-grey-cupcakes)! For different flavors, try vanilla or lemon extract instead of orange."
+excerpt: "This is awesome on [Earl Grey Cupcakes](!SITE_URL!/moosefood/earl-grey-cupcakes)! For different flavors, try vanilla or lemon extract instead of orange."
 header:
   teaser:
 ---
+
+{{ page.excerpt | replace: '!SITE_URL!', site.url }}
 
 ## INGREDIENTS
 * ½ cup honey
