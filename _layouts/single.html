@@ -4,8 +4,6 @@ layout: default
 
 {% include base_path %}
 
-{% assign path = {{ site.url }} | append: {{ site.baseurl }} %}
-
 {% if (page.header.overlay_color or page.header.overlay_image) or page.header.image %}
   {% include page__hero.html %}
 {% endif %}
@@ -45,7 +43,7 @@ layout: default
         {% endif %}
 
         {% if page.excerpt %}
-          <p class="recipe-excerpt">{{ page.excerpt | replace: '!SITE_URL!', path | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+          <p class="recipe-excerpt">{{ page.excerpt | replace: '!SITE_URL!', site.linkpath | markdownify | remove: '<p>' | remove: '</p>' }}</p>
         {% endif %}
 
         {{ content }}
