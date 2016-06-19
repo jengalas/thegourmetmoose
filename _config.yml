@@ -13,7 +13,6 @@ name                     : "Zhanna"
 description              : "Swamp grass and beyond"
 url                      : https://jengalas.github.io
 baseurl                  : /thegourmetmoose
-linkpath                 : https://jengalas.github.io/thegourmetmoose
 gh_repo                  :
 teaser                   : recipe-no-image.png
 # breadcrumbs            : false # true, false (default)
