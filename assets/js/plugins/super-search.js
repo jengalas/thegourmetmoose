@@ -132,7 +132,7 @@ MIT Licensed
       }
     });
 
-    searchInputEl.addEventListener('input', function onInputChange() {
+    searchInputEl.addEventListener('input', function onInputChange(e) {
       handleInput();
     });
   }
