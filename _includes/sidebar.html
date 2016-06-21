@@ -27,7 +27,7 @@
       {% assign site_tags = site_tags | split: ',' %}
 
       {% for tag in tags %}
-      <a href="{{ site.baseurl }}/tags/{{ tag | slugize | downcase }}" class="tag">{{ tag | slugize }}</a>
+      <a href="{{ site.baseurl }}/tags/{{ tag | slugify | downcase }}" class="tag">{{ tag | slugize }}</a>
       {% endfor %}
   {% endif %}
   </div>
