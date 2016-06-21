@@ -23,6 +23,14 @@
       {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
       {% assign tags = site_tags | split:',' | sort %}
       <!-- {% include tagcloud.html %} -->
+      {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+      {% assign site_tags = site_tags | split: ',' %}
+
+      {% for tag in tags %}
+      <a href="{{ site.baseurl }}/tags/{{ tag | slugize }}" class="tag">{{ tag | slugize }}
+          <span>({{ site.tags[tag].size }})</span>
+        </a>
+      {% endfor %}
   {% endif %}
   </div>
 {% endif %}
