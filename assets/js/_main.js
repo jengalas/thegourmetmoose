@@ -74,7 +74,7 @@ $(document).ready(function(){
   });
 
   superSearch({
-    searchFile: '/feed.xml',
+    searchFile: '//jengalas.github.io/thegourmetmoose/feed.xml',
     searchSelector: '#js-search', // CSS Selector for search container element.
     inputSelector: '#js-search__input', // CSS selector for <input>
     resultsSelector: '#js-search__results' // CSS selector for results container
