@@ -4,7 +4,7 @@ categories: moosefood
 tags: 
   - dessert
   - Mediterranean
-  - Middle Eastern
+  - Middle-Eastern
 excerpt: 
 header:
   teaser: 

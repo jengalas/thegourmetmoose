@@ -3,7 +3,7 @@ title: "Bravas Potatoes"
 categories: moosefood
 tags: 
   - side dish
-  - South American
+  - South-American
 excerpt: "Spicy and crispy, we love these served with sour cream (and beer)!"
 header:
   teaser:
