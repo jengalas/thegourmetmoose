@@ -3,7 +3,7 @@ title: "Lekvar Icebox Cookies"
 categories: moosefood
 tags: 
   - dessert
-  - Eastern European
+  - Eastern-European
 excerpt: "Rich’s favorite cookies! Can be stored frozen; allow to thaw for 15 minutes before serving."
 header:
   teaser: lekvar-cookies-150x150.jpg
