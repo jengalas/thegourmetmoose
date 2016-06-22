@@ -2,7 +2,7 @@
 title: "Classic Macaroni Salad"
 categories: moosefood
 tags: 
-  - side dish
+  - side-dish
   - salad
   - American
 excerpt: "This makes slightly more than 10 cups. Use a Hefty 10-cup round casserole foil pan measuring 9¼&Prime; diameter by 2¾&Prime; deep (packaging states it's for 3-quart recipes)."

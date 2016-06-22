@@ -2,7 +2,7 @@
 title: "Fresh Mango Salsa"
 categories: moosefood
 tags: 
-  - side dish
+  - side-dish
   - condiment
   - Mexican
 excerpt: "From [Cookie and Kate](http://cookieandkate.com/2015/fresh-mango-salsa-recipe/)"

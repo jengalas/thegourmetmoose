@@ -3,7 +3,7 @@ title: "Sesame Mandarin Quinoa Salad"
 categories: moosefood
 tags: 
   - salad
-  - side dish
+  - side-dish
   - American
   - Thai
 excerpt: 

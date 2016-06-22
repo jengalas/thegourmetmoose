@@ -3,7 +3,7 @@ title: "Greek Yogurt Cole Slaw"
 categories: moosefood
 tags: 
   - salad
-  - side dish
+  - side-dish
   - Mediterranean
   - American
 excerpt: 

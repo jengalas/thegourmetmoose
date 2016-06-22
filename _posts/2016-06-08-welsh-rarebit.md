@@ -4,7 +4,7 @@ categories: moosefood
 tags: 
   - appetizer
   - entrée
-  - side dish
+  - side-dish
   - snack
   - American
   - British

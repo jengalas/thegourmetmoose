@@ -2,7 +2,7 @@
 title: "Almost No-Knead Bread"
 categories: moosefood
 tags: 
-  - side dish
+  - side-dish
   - American
 excerpt: "An enameled cast-iron Dutch oven with a tight-fitting lid yields best results, but the recipe also works in a regular cast-iron Dutch oven or heavy stockpot. Use a mild-flavored lager. The bread is best eaten the day it is baked but can be wrapped in aluminum foil and stored in a cool, dry place for up to 2 days. Our modifications to time and temp: preheat oven to 500°, put bread in and immediately reduce temp to 400°, bake covered for 45 minutes. Remove cover and bake up to 5 more minutes."
 header:

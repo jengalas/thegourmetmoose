@@ -3,7 +3,7 @@ title: "Yogurt Sauce for Fruit"
 categories: moosefood
 tags: 
   - breakfast
-  - side dish
+  - side-dish
   - condiment
   - Mediterranean
 excerpt: "This goes very well with any kind of fruit salad. I particularly like it with mixed citrus (grapefruit, cara cara orange, and pummelo) and maraschino cherries."

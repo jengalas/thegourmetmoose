@@ -2,7 +2,7 @@
 title: "Oven Roasted Greek Potatoes"
 categories: moosefood
 tags: 
-  - side dish
+  - side-dish
   - Mediterranean
 excerpt:
 header:

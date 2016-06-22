@@ -3,7 +3,7 @@ title: "Basil Cranberry Sauce"
 categories: moosefood
 tags: 
   - condiment
-  - side dish
+  - side-dish
   - American
 excerpt: 
 header:

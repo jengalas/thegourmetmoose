@@ -2,7 +2,7 @@
 title: "Cranberry-Cherry Sauce with Lime and Ginger"
 categories: moosefood
 tags: 
-  - side dish
+  - side-dish
   - American
 excerpt:
 header:

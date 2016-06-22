@@ -2,7 +2,7 @@
 title: "Mom's Baked Beans"
 categories: moosefood
 tags: 
-  - side dish
+  - side-dish
 header:
   teaser: 
 ---
