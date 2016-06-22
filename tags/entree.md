@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /tags/entrée
+permalink: /tags/entree
 ---
 
 # Course: Entrée
