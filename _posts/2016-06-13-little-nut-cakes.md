@@ -3,7 +3,7 @@ title: "Little Nut Cakes"
 categories: moosefood
 tags: 
   - dessert
-  - Eastern European
+  - Eastern-European
 excerpt: 
 header:
   teaser: 
