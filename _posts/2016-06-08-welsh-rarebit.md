@@ -3,7 +3,7 @@ title: "Welsh Rarebit"
 categories: moosefood
 tags: 
   - appetizer
-  - entrée
+  - entree
   - side-dish
   - snack
   - American

@@ -2,7 +2,7 @@
 title: "Cacio e Pepe"
 categories: moosefood
 tags: 
-  - entrée
+  - entree
   - Italian
 header:
   teaser: cacio-e-pepe-150x150.jpg

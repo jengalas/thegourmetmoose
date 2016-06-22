@@ -2,7 +2,7 @@
 title: "Stuffed Green Peppers"
 categories: moosefood
 tags: 
-  - entrée
+  - entree
   - American
 excerpt:
 header:

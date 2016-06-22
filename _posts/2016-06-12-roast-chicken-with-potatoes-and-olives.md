@@ -2,7 +2,7 @@
 title: "Roast Chicken with Potatoes and Olives"
 categories: moosefood
 tags: 
-  - entrée
+  - entree
   - Mediterranean
 excerpt:
 header:

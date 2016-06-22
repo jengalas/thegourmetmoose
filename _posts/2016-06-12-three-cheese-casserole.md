@@ -2,7 +2,7 @@
 title: "Three Cheese Casserole"
 categories: moosefood
 tags: 
-  - entrée
+  - entree
   - Italian
 excerpt:
 header:

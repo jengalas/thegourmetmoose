@@ -2,7 +2,7 @@
 title: "Reuben's Chicken Barbecue Sauce"
 categories: moosefood
 tags: 
-  - entrée
+  - entree
   - condiment
   - American
 header:

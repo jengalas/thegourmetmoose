@@ -2,7 +2,7 @@
 title: "Moose Lodge Meat Pasty"
 categories: moosefood
 tags: 
-  - entrée
+  - entree
 excerpt: 
 header:
   teaser:

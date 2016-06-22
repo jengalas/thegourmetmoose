@@ -2,7 +2,7 @@
 title: "Curry Chicken Salad"
 categories: moosefood
 tags: 
-  - entrée
+  - entree
   - salad
   - American
 excerpt: 

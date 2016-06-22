@@ -2,7 +2,7 @@
 title: "Orange-Coconut Shrimp"
 categories: moosefood
 tags: 
-  - entrée
+  - entree
   - Thai
 excerpt:
 header:

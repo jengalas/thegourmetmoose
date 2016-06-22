@@ -3,7 +3,7 @@ title: "Bar-B-Barn Ribs"
 categories: moosefood
 tags: 
   - condiment
-  - entrée
+  - entree
   - American
 excerpt: ""
 header:
