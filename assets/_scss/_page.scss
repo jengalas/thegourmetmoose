@@ -351,3 +351,17 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/*
+   Tag Cloud
+   ========================================================================== */
+
+.tagcloud_tag {
+  color: #c59c87;
+  padding: 0.2em;
+  white-space: nowrap;
+
+  a {
+    color: #e8a98a;
+  }
+}
