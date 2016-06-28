@@ -361,7 +361,8 @@
   padding: 0.2em;
   white-space: nowrap;
 
-  a {
+  a:hover {
     color: #e8a98a;
+    text-decoration: underline;
   }
 }
