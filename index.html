@@ -8,7 +8,7 @@ author_profile: false
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts }}</h3>
 
 {% for post in paginator.posts %}
-  {% include archive-single.html %}
+  {% include archive-single.html type="grid" %}
 {% endfor %}
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].tags_label | remove: ":" }}</h3>
