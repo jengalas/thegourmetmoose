@@ -59,6 +59,12 @@
   }
 }
 
+h1#recipes-we-like,
+h1#recipes-to-try {
+  font-family: $header-font-family;
+  font-weight: normal;
+}
+
 .page__lead {
   font-family: $global-font-family;
   font-size: $type-size-4;
