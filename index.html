@@ -14,5 +14,6 @@ author_profile: false
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tags = site_tags | split:',' | sort %}
 {% for tag in tags %}
+    {% assign rel_tag_size = site.tags[tag].size | times: 4.0 | divided_by: tag_count | plus: 1 %}
     <a href="{{ site.baseurl }}/tags/{{ tag | slugify }}" class="tag" style="white-space: nowrap; font-size: {{ rel_tag_size }}em; padding: 0.6em;">{{ tag | replace: '-', ' ' }}</a>
 {% endfor %}
