@@ -13,7 +13,7 @@ author_profile: false
 {% endfor %}
 </div>
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].tags_label | remove: ":" }}</h3>
+<h3 class="archive__subtitle cf">{{ site.data.ui-text[site.locale].tags_label | remove: ":" }}</h3>
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
   {% assign tags = site_tags | split:',' | sort %}
