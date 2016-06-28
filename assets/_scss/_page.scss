@@ -360,9 +360,9 @@
   color: #c59c87;
   padding: 0.2em;
   white-space: nowrap;
+}
 
-  a:hover {
+.tagcloud_tag > a:hover {
     color: #e8a98a;
     text-decoration: underline;
-  }
 }
