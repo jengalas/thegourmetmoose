@@ -137,7 +137,6 @@ a:hover {
     .archive__item-teaser {
       max-height: 160px;
     }
-    @include prefix(1 of 12);
   }
 
   @include breakpoint($medium) {
