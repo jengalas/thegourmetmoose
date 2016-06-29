@@ -227,6 +227,10 @@ h1[id|='course'] {
   }
 }
 
+.home {
+  padding-right: 2em;
+}
+
 /*
    Social sharing
    ========================================================================== */
@@ -367,7 +371,8 @@ h1[id|='course'] {
 
 .tagcloud_tag {
   color: #c59c87;
-  padding: 0.2em;
+  padding: 0.4em;
+  padding-left: 0;
   white-space: nowrap;
 }
 
