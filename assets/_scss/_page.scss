@@ -61,7 +61,8 @@
 
 h1#recipes-we-like,
 h1#recipes-wed-like-to-try,
-h1#cuisines-courses {
+h1#cuisines-courses,
+h1[id|='cuisine'] {
   font-family: $header-font-family;
   font-weight: normal;
 }
