@@ -14,10 +14,6 @@
     @include prefix(0.5 of 12);
   }
 
-  @include breakpoint($small) {
-    @include prefix(1 of 12);
-  }
-
   a {
     color: inherit;
     text-decoration: none;
@@ -141,6 +137,7 @@ a:hover {
     .archive__item-teaser {
       max-height: 160px;
     }
+    @include prefix(1 of 12);
   }
 
   @include breakpoint($medium) {
