@@ -74,10 +74,15 @@ h1[id|='course'] {
 
 .page__content {
 
-  h2 {
+  h2,
+  h3 {
     color: #c59c87;
     font-weight: normal;
     font-size: 1.15em;
+  }
+
+  h3 {
+    font-size: 1em;
   }
 
   p, li, dl {
