@@ -11,7 +11,7 @@ title                    : "The Gourmet Moose"
 title_separator          : "-"
 name                     : "Zhanna"
 description              : "Swamp grass and beyond"
-url                      : http://gourmetmoose.com
+url                      : https://gourmetmoose.com
 baseurl                  : 
 gh_repo                  :
 teaser                   : recipe-no-image.png
