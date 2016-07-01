@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "Zhanna"
 description              : "Swamp grass and beyond"
 url                      : https://jengalas.github.io
-baseurl                  : /thegourmetmoose
+baseurl                  : /
 gh_repo                  :
 teaser                   : recipe-no-image.png
 # breadcrumbs            : false # true, false (default)
