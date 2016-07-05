@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "Zhanna"
 description              : "Swamp grass and beyond"
 url                      : https://gourmetmoose.com
-baseurl                  : 
+baseurl                  :
 gh_repo                  :
 teaser                   : recipe-no-image.png
 # breadcrumbs            : false # true, false (default)
@@ -148,7 +148,7 @@ kramdown:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:title/
 paginate: 4 # amount of posts to show
 paginate_path: /page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
