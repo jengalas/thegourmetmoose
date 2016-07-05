@@ -1,6 +1,6 @@
 ---
 title: "Blueberry Buttercream Frosting"
-categories: moosefood
+categories: recipes-to-try
 tags: 
   - condiment
   - dessert
