@@ -4,7 +4,7 @@ categories: moosefood
 tags: 
   - dessert
   - American
-excerpt: "Meyer lemons give this a subtle floral flavor. This is perfect on [Lemon Cupcakes](!SITE_URL!/moosefood/lemon-cupcakes)."
+excerpt: "Meyer lemons give this a subtle floral flavor. This is perfect on [Lemon Cupcakes](!SITE_URL!/lemon-cupcakes)."
 header:
   teaser: meyer-lemon-frosting-150x150.jpg
 ---

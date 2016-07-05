@@ -5,7 +5,7 @@ tags:
   - condiment
   - dessert
   - American
-excerpt: "Sounds like a great topping for [Lemon Cupcakes](!SITE_URL!/moosefood/lemon-cupcakes)!"
+excerpt: "Sounds like a great topping for [Lemon Cupcakes](!SITE_URL!/lemon-cupcakes)!"
 header:
   teaser: blueberry-buttercream-150x150.jpg
 ---
