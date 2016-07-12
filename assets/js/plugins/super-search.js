@@ -3,7 +3,7 @@ Author: Kushagra Gour (http://kushagragour.in)
 MIT Licensed
 */
 (function () {
-  var searchFile = '//gourmetmoose.com/feed.xml',
+  var searchFile = '//thegourmetmoose.com/feed.xml',
     searchEl,
     searchInputEl,
     searchResultsEl,
