@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "MooseFood"
-    url: https://jengalas.github.io/thegourmetmoose/moosefood/
+    url: https://thegourmetmoose/moosefood/
 
   - title: "Recipes to Try"
-    url: https://jengalas.github.io/thegourmetmoose/recipes-to-try/
+    url: https://thegourmetmoose/recipes-to-try/
 
   - title: "Cuisines & Courses"
-    url: https://jengalas.github.io/thegourmetmoose/tag-cloud/
+    url: https://thegourmetmoose/tag-cloud/
