@@ -4,6 +4,9 @@
 
 html {
   background: url('https://thegourmetmoose.com/images/green_canvas_background1.jpg');
+  /* sticky footer fix */
+  position: relative;
+  min-height: 100%;
 }
 
 body {
