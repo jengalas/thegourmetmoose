@@ -5,7 +5,7 @@ tags:
   - entree
   - soup
   - British
-excerpt: "We used a rotisserie chicken and a bit more barley than the recipe specifies. We didn't have fresh parsley, so we added a small amount of dried parsley to the soup. We needed to use our large () pot. Serve with [prune-walnut bread](!SITE_URL!/prune-walnut-bread)."
+excerpt: "We used a rotisserie chicken and a bit more barley than the recipe specifies. We didn't have fresh parsley, so we added a small amount of dried parsley to the soup. We needed to use our large (7 quart) pot. Serve with [prune-walnut bread](!SITE_URL!/prune-walnut-bread)."
 header:
   teaser: cock-a-leekie-soup-150x150.jpg
 ---
