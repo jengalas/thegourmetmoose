@@ -21,9 +21,9 @@ header:
 * 1⅔ cups (217g) all-purpose flour
 * ½ teaspoon table salt
 * ½ teaspoon baking powder
-* ½ teaspoon ground nutmeg or cinnamon
+* ½ teaspoon ground nutmeg *or* cinnamon
 * 1 cup packed brown sugar
-* 2 eggs, beaten
+* 2 eggs *beaten*
 * ¼ cup canola or light olive oil
 * 1 teaspoon pure vanilla extract
 * 1 cup chopped walnuts
