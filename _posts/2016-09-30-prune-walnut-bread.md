@@ -9,9 +9,9 @@ tags:
   - snack
   - American
   - British
-excerpt: "Serve with cock-a-leekie soup! Or for breakfast or dessert!"
+excerpt: "Serve with [cock-a-leekie soup](!SITE_URL!/cock-a-leekie-soup)! Or for breakfast or dessert."
 header:
-  teaser: 
+  teaser: prune-walnut-bread-150x150.jpg
 ---
 
 ## INGREDIENTS
