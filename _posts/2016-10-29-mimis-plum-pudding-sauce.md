@@ -4,7 +4,7 @@ categories: moosefood
 tags: 
   - condiment
   - dessert
-excerpt: "Gwynne writes: &quot;This is the crownin jewel of the Davis Family Christmas dinner.&quot;" 
+excerpt: "Gwynne writes: &quot;This is the crowning jewel of the Davis Family Christmas dinner.&quot;" 
 header:
   teaser: 
 ---
