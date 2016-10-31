@@ -4,7 +4,7 @@ categories: moosefood
 tags:
   - dessert
   - American
-excerpt: Gwynne writes: &quot;There are numerous jokes about fruitcake ... this will change anyone's mind! It is absolutely wonderful and was always a gift from grandma. It always arrived cold from the attic and in a shoe box!&quot;
+excerpt: "Gwynne writes: &quot;There are numerous jokes about fruitcake ... this will change anyone's mind! It is absolutely wonderful and was always a gift from grandma. It always arrived cold from the attic and in a shoe box!&quot;""
 header:
   teaser: 
   thumb: 
