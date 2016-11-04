@@ -17,7 +17,7 @@ header:
 * 2 teaspoons minced garlic
 * 1 tablespoon olive oil
 * 1 pound ground turkey
-* 1 teaspoon jalapeno powder *(original recipe calls for chili powder)*
+* 1 teaspoon jalapeño powder *(original recipe calls for chili powder)*
 * 1 teaspoon ground cumin
 * 1 teaspoon dried oregano
 * ½ teaspoon ground coriander
