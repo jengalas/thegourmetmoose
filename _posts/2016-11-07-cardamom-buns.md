@@ -12,6 +12,7 @@ header:
 ---
 
 ## INGREDIENTS
+
 ### Buns
 * 12 grams dry (instant) yeast
 * 75 grams butter, cubed
