@@ -13,12 +13,12 @@ header:
 * 2 large russet baking potatoes
 * 2 medium yellow cooking onions
 * 1 package unbaked ready-made Pillsbury pie crusts
-* kosher salt and fresh gound black pepper *for seasoning*
+* kosher salt and fresh ground black pepper *for seasoning*
 
 ## INSTRUCTIONS
 1. Preheat oven to 425°F.
 
-2. Slice the round steak directly across the grain into 1/4” to 5/16” strips. Divide in half. peel and slice the yellow cooking onions into 1/8” to 3/16” slices. Divide in half. Peel and slice the russet potatoes into 3/16” to 1/4” slices. Divide in half and pat the slices dry with a paper towel.
+2. Slice the round steak directly across the grain into 1/4” to 5/16” strips. Divide in half. Peel and slice the yellow cooking onions into 1/8” to 3/16” slices. Divide in half. Peel and slice the russet potatoes into 3/16” to 1/4” slices. Divide in half and pat the slices dry with a paper towel.
 
 3. Unroll one pie crust and place into a 9-inch non-stick cake pan. Form it gently into the bottom and sides, and pinch a small amount of dough over and along the top edge of the pan.
 
