@@ -11,7 +11,7 @@ header:
 ---
 
 ## INGREDIENTS
-* 1 recipe Basic Sweet Dough
+* 1 recipe [Basic Sweet Dough](/basic-sweet-dough)
 * ¼ cup butter *melted*
 * nutmeg or mace
 * ½ cup sugar
