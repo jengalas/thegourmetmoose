@@ -11,7 +11,7 @@ header:
 ---
 
 ## INGREDIENTS
-* 1 recipe [Basic Sweet Dough](!SITE_URL!/basic-sweet-dough)
+* 1 recipe [Basic Sweet Dough](/basic-sweet-dough)
 * 2 tablespoons butter *melted*
 * ½ cup sugar
 * 2 tablespoons grated orange peel/zest
