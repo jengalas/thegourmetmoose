@@ -6,7 +6,7 @@ permalink: /moosefood/
 # Recipes we like
 
 <div class="tiles">
-{% capture lowercase_moosefood %}{% for post in site.categories.moosefood %}{{ post.title | downcase }}#{{ post.title }}{% endfor %}{% endcapture %}
+{% capture lowercase_moosefood %}{% for post in site.categories.moosefood %}{{ post.title | downcase }}{% endfor %}{% endcapture %}
 {% assign sorted_posts = lowercase_moosefood | sort: 'title' %}
 {% for post in sorted_posts %}
   {% include archive-single.html type="grid" %}
