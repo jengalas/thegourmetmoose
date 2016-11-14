@@ -7,7 +7,7 @@ permalink: /moosefood/
 
 <div class="tiles">
 {% for post in site.categories.moosefood %}
-{% capture page_title %}{{ page.title | downcase }}{% endcapture %}
+{% capture page_title %}{{ post.title | downcase }}{% endcapture %}
 {% endfor %}
 {% assign sorted_posts = page_title | sort: 'title' %}
 {% for post in sorted_posts %}
