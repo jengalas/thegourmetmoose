@@ -36,5 +36,5 @@ header:
 ## INSTRUCTIONS
 1. Finely chop and mix together the peels, raisins and nuts. Sprinkle with the ¼ cup flour and mix very thoroughly.
 2. Cream shortening and sugar. Add eggs and beat well. Sift together 2¾ cups flour, baking powder, salt and spices. Add alternately with the grape juice.
-3. Pour batter over the fruits and mix well. Spoon into greased loaf pans (glass), filling about ¾ full. Smooth top but don't flatten.
-4. Bake in 250°F oven for 3-4 hours. Cool then brush with whiskey, add apple slice on top, wrap tightly in plastic wrap and foil and store in cool dark place.
+3. Pour batter over the fruits and mix well. Spoon into greased loaf pans (2 glass pans, 9" x 5" x 3.5"), filling about ¾ full. Smooth top but don't flatten.
+4. Bake in 250°F oven for 3-4 hours (I bake them for 3 hours, 10 minutes). Cool completely, then remove from pan. Brush with whiskey, add apple slices on top, wrap tightly in waxed paper and foil and store in cool dark place.
