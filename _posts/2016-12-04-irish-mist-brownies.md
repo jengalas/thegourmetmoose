@@ -4,7 +4,7 @@ categories: moosefood
 tags: 
   - dessert
   - American
-excerpt: "This recipe came from mom's old Land O Lakes cookbook from a hundred years ago (give or take a few decades). They're rich and decadent and most people love them. I've also made a cherry version by making a plain buttercream frosting (skip the peppermint extract) topped with cherry pie filling. (Almond extract might also work well in the frosting for the cherry version.)"
+excerpt: "This recipe came from mom's old Land O Lakes cookbook from a hundred years ago (give or take a few decades). Yes, Carl, from the days when I made hand-lettered signs for the goodies on the Xmas eve table. They're rich and decadent and most people love them. I've also made a cherry version by making a plain buttercream frosting (skip the peppermint extract) topped with cherry pie filling. (Almond extract might also work well in the frosting for the cherry version.)"
 header:
   teaser: 
 ---
