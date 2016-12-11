@@ -25,5 +25,6 @@ header:
 * 8 ounces extra sharp Cheddar *shredded*
 
 ## INSTRUCTIONS
-1. Melt butter, stir in flour and seasonings (except Worcestershire sauce—mix this with the beer). Cook a few minutes, then stir in milk. 2. Heat to boiling, boil and stir one minute. Gradually add beer. 
+1. Melt butter, stir in flour and seasonings (except Worcestershire sauce—mix this with the beer). Cook a few minutes, then stir in milk. 
+2. Heat to boiling, boil and stir one minute. Gradually add beer. 
 3. Stir in cheese a little at a time over low heat until all is melted. Serve hot over toast or broccoli.
