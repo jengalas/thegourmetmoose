@@ -21,6 +21,12 @@
 }
 
 .archive > .page__title {
+  /* padding-top: 1em; */
+  display: none;
+}
+
+#recipes-we-like,
+#moosefood {
   padding-top: 1em;
 }
 
@@ -43,7 +49,7 @@
   color: #c59c87;
 }
 
-// remove border
+/* remove border*/
 .page__content {
 
   .archive__item-title {
@@ -140,8 +146,8 @@ a:hover {
   }
 
   @include breakpoint($medium) {
-    margin-left: 0; // reset before mixin does its thing
-    margin-right: 0; // reset before mixin does its thing
+    margin-left: 0; /* reset before mixin does its thing*/
+    margin-right: 0; /* reset before mixin does its thing*/
     @include gallery(2.5 of 10);
 
     .archive__item-teaser {
