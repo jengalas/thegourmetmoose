@@ -32,7 +32,7 @@ header:
 
 ### Assembly
 
-½ cup flaked coconut *divided*
+* ½ cup flaked coconut *divided*
 * 1 baked 9-inch pie shell
 
 ## INSTRUCTIONS
@@ -44,9 +44,9 @@ header:
 6. Cool and add vanilla and ½ cup coconut.
 7. Pour filling into pre-baked pie shell.
 8. Make meringue:
-    a. In a large mixing bowl, beat whites until stiff but not dry.
-    b. Add sugar gradually, 1 tablespoon at a time, beating constantly. Add vanilla.
-    c. Pile lightly onto hot filling in baked pie shell and spread to edges so pie is completely sealed.
+    - In a large mixing bowl, beat whites until stiff but not dry.
+    - Add sugar gradually, 1 tablespoon at a time, beating constantly. Add vanilla.
+    - Pile lightly onto hot filling in baked pie shell and spread to edges so pie is completely sealed.
 9. Top with meringue and and sprinkle remaining ½ cup coconut over top.
 10. Bake in preheated 325°F oven 15 minutes or until firm and delicately browned.
 11. Cool and store in refrigerator.
