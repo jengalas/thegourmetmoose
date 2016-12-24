@@ -4,7 +4,7 @@ categories: moosefood
 tags: 
   - entree
   - Indian
-excerpt: "We didn't cook the chicken on the grill but rather sauteed it in the pan before adding the jalapeño and sauce ingredients. We also omitted the salt in the sauce and used salted butter instead of unsalted."
+excerpt: "From [food.com](http://www.food.com/recipe/chicken-tikka-masala-25587). We didn't cook the chicken on the grill but rather sauteed it in the pan before adding the jalapeño and sauce ingredients. We also omitted the salt in the sauce and used salted butter instead of unsalted."
 header:
   teaser: chicken-tikka-masala-150x150.jpg
 ---
