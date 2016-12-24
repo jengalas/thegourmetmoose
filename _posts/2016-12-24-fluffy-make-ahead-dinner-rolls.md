@@ -4,7 +4,7 @@ categories: recipes-to-try
 tags: 
   - bread
   - side dish
-excerpt: ""
+excerpt: "Adapted from [Tracey's Culinary Adventures](http://traceysculinaryadventures.com/2013/11/fluffy-make-ahead-dinner-rolls.html). They sound easy and tasty ... will update after making them!"
 header:
   teaser: fluffy-make-ahead-dinner-rolls-150x150.jpg
 ---
