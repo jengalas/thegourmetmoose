@@ -23,4 +23,4 @@ header:
 1. Melt chocolate and butter together. Remove from heat. 
 2. Add sugar, eggs and vanilla. Mix well. Stir in walnuts. 
 3. Mix and sift flour and salt. Add gradually, mixing well. 
-4. Pour into greased and floured 9 inch square pan. Bake at 3500176F for 45 to 50 minutes.
+4. Pour into greased and floured 9 inch square pan. Bake at 350°F for 45 to 50 minutes.
