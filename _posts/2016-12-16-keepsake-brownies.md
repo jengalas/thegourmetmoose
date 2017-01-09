@@ -10,7 +10,7 @@ header:
 ---
 
 ## INGREDIENTS
-* 4 squares unsweetened chocolate
+* 4 squares (1 ounce each) unsweetened chocolate
 * 1 cup butter
 * 2 cups sugar
 * 3 eggs *beaten*
