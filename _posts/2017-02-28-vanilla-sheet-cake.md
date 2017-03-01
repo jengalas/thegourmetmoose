@@ -19,7 +19,7 @@ header:
 * 1 teaspoon pure vanilla extract
 * 1 cup buttermilk *room temperature*
 * ¼ teaspoon lemon zest *finely grated*
-* [Lemon Cream Cheese Frosting](!SITE_URL!/lemon-cream-cheese-frosting/)
+* [Lemon Cream Cheese Frosting](/lemon-cream-cheese-frosting/)
 * 1 pint blueberries *optional, for serving* 
 
 ## INSTRUCTIONS
