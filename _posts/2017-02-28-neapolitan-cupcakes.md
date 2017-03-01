@@ -5,7 +5,7 @@ tags:
   - dessert
 excerpt: "From Martha Stewart Living, June 2016"
 header:
-  teaser: neapolitan-cupcakes-150x150.jpg
+  teaser: neapolitan-150x150.jpg
 ---
 
 ## INGREDIENTS
