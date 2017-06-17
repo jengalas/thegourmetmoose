@@ -25,5 +25,5 @@ header:
 ## INSTRUCTIONS
 1. Preheat oven to 400°F.
 2. In a large bowl, combine the first six ingredients. In another bowl, combine the yogurt, egg and butter. Stir into dry ingredients just until moistened; batter will be thick and spongy. Fold in blueberries.
-3. Drop by heaping tablespoonfuls 2 in. apart onto a greased baking sheet. Bake at 400° for 11-12 minutes or until lightly browned. Yields 14-20 scones. 
+3. Drop by heaping tablespoonfuls 2 in. apart onto a greased baking sheet. Bake at 400° for 9-11 minutes or until lightly browned. Yields 14-20 scones. 
 
