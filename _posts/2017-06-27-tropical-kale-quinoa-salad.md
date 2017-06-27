@@ -17,6 +17,7 @@ header:
 * 1-1½ cups cooked quinoa *(½ cup dry made with 1 cup water)*
 * ½ cup (or more) chopped mango
 * ½ cup (or more) blueberries
+* 2 tablespoons cilantro
 
 ### Dressing
 * 3 tablespoons olive oil
