@@ -29,4 +29,4 @@ header:
 ## INSTRUCTIONS
 1. Cook quinoa in ¾ cup water, and let cool.
 2. Make the dressing: combine dressing ingredients in liquid 2-cup measuring cup, and marinate onions for at least 30 minutes or up to a day ahead. 
-3. Tear the kale into bite-sized pieces, making sure to remove the rib. Combine kale and quinoa, then sprinkle with the dried cherries. Add dressing and mix together thoroughly. *Note: I found the quantity of dressing to be too much for the salad, so I strained out the onions using a slotted spoon, and then added as much of the dressing as I felt the salad needed.*
+3. Tear the kale into bite-sized pieces, making sure to remove the rib. Combine kale and quinoa, then sprinkle with the dried cherries. Add dressing and mix together thoroughly. Add lemon zest if desired. *Note: I found the quantity of dressing to be too much for the salad, so I strained out the onions using a slotted spoon, and then added as much of the dressing as I felt the salad needed.*
