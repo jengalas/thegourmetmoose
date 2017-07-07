@@ -38,5 +38,5 @@ header:
 * ¼ teaspoon paprika
 
 ## INSTRUCTIONS
-1. To prepare the salad, combine water, quinoa, and salt in a large saucepan. Bring to a boil; reduce heat, and simmer 15 minutes. Drain the quinoa mixture through a sieve over a bowl, reserving 3 tablespoons cooking liquid. Combine quinoa mixture, lettuce and next 8 ingredients (lettuce through black pepper) in a large bowl; set aside.
+1. To prepare the salad, combine water, quinoa, and salt in a large saucepan. Bring to a boil; reduce heat, and simmer 15 minutes. Drain the quinoa mixture through a sieve over a bowl, reserving 3 tablespoons cooking liquid. Combine quinoa mixture, lettuce and next 9 ingredients (lettuce through black pepper) in a large bowl; set aside.
 2. To prepare the vinaigrette, combine reserved 3 tablespoons cooking liquid, lime rind, and remaining ingredients in a bowl, stirring well with a whisk. Pour vinaigrette over quinoa mixture, and toss well to coat.
