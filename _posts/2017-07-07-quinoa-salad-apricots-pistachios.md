@@ -31,6 +31,11 @@ header:
 * 3 tablespoons fresh lime juice
 * 2 tablespoons mirin or slightly sweet white wine (Riesling)
 * 1 tablespoon olive oil
+* ½ to 1 teaspoon minced jalapeno pepper
+* ¼ teaspoon salt
+* ¼ teaspoon ground cumin
+* ¼ teaspoon ground coriander
+* ¼ teaspoon paprika
 
 ## INSTRUCTIONS
 1. To prepare the salad, combine water, quinoa, and salt in a large saucepan. Bring to a boil; reduce heat, and simmer 15 minutes. Drain the quinoa mixture through a sieve over a bowl, reserving 3 tablespoons cooking liquid. Combine quinoa mixture, lettuce and next 8 ingredients (lettuce through black pepper) in a large bowl; set aside.
