@@ -7,7 +7,7 @@ tags:
   - snack
 excerpt: "Baked in a scone pan, these come out perfectly portioned and golden brown in 15 minutes."
 header:
-  teaser: cornbread-150x150.jpg
+  teaser: jalapeno-cornbread-150x150.jpg
 ---
 
 ## INGREDIENTS
