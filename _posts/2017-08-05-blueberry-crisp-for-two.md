@@ -21,7 +21,7 @@ header:
 * ¼ cup quick oats
 * ¼ cup light brown sugar
 * ¼ teaspoon cinnamon
-* 2½ - 3 tablespoons cold butter, cut into small cubes
+* 2½ - 3 tablespoons cold butter *cut into small cubes*
 
 ## INSTRUCTIONS
 1. Preheat oven to 350°F.
