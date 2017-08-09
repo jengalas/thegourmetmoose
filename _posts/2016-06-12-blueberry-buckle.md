@@ -11,6 +11,8 @@ header:
 ---
 
 ## INGREDIENTS
+
+### Cake
 * 2 cups all-purpose flour *sifted*
 * 2 teaspoons baking powder
 * ½ teaspoon salt
@@ -19,6 +21,8 @@ header:
 * 1 egg
 * ½ cup milk
 * 2 cups fresh blueberries
+
+### Topping
 * ½ cup sugar
 * ⅓ cup all-purpose flour *sifted*
 * ¼ cup butter *softened*
