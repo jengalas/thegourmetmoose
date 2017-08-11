@@ -4,7 +4,7 @@ categories: moosefood
 tags: 
   - dessert
   - American
-excerpt: ""
+excerpt: "Fantastic with blueberries, plums, or peaches! (Or any combination thereof!)"
 header:
   teaser: 
 ---
