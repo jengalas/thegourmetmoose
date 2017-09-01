@@ -27,7 +27,7 @@ header:
 * ½ cup (about 6 ounces) light or dark molasses
 
 ## INSTRUCTIONS
-1. adjust oven rack to middle position and heat oven to 375°F. Line 2 baking sheets with parchment paper. Place ½ cup sugar for dipping in 8- or 9-inch cake pan.
+1. Adjust oven rack to middle position and heat oven to 375°F. Line 2 baking sheets with parchment paper. Place ½ cup sugar for dipping in 8- or 9-inch cake pan.
 2. Whisk flour, baking soda, spices, and salt in medium bowl until thoroughly combined; set aside.
 3. In standing mixer fitted with paddle attachment, beat butter with brown and granulated sugars at medium-high speed until light and fluffy, about 3 minutes. Reduce speed to medium-low and add yolk and vanilla; increase speed to medium and beat until incorporated, about 20 seconds. Reduce speed to medium-low and add molasses; beat until fully incorporated, about 20 seconds, scraping bottom and sides of bowl once with rubber spatula. Reduce speed to lowest setting; add flour mixture and beat until just incorporated, about 30 seconds, scraping bowl down once. Give dough final stir with rubber spatula to ensure that no pockets of flour remain at bottom. Dough will be soft.
 4. Using tablespoon measure, scoop heaping tablespoon of dough and roll between palms into 1½-inch ball; drop ball into cake pan with sugar and repeat to form about 4 balls. Toss balls in sugar to coat and set on prepared baking sheet, spacing about 2 inches apart. Repeat with remaining dough. Bake 1 sheet at a time until cookies are browned, still puffy, and edges have begun to set but centers are still soft (cookies will look raw between cracks and seem underdone), about 11 minutes, rotating baking sheet halfway through baking. Do not overbake.
