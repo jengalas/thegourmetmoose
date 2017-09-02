@@ -1,27 +1,23 @@
 ---
-title: "M00dles"
+title: "Mashed Potatoes with Sour Cream, Peas and Scallions"
 categories: moosefood
 tags: 
-  - entree
   - side-dish
-  - snack
   - American
-  - Eastern-European
-excerpt: "m00dles is short for moose noodles! They are Rich's favorite."
+excerpt: ""
 header:
-  teaser: moodles-150x150.jpg
+  teaser: 
 ---
 
 ## INGREDIENTS
-* 3 cups (390 g) all-purpose flour
-* 2 eggs, lightly beaten
-* water mixed with eggs, to make 1 cup
-* 1 teaspoon oil
+* 2 pounds red or Yukon Gold potatoes *peeled and cubed*
+* ⅓ cup sour cream
+* 1-2 tablespoons milk *warmed*
+* 2-3 tablespoons butter
+* ⅓ cup frozen peas
+* ¼ cup scallions *chopped*
+* salt and pepper to taste
 
 ## INSTRUCTIONS
-1. Mix all ingredients with dough hook until combined.
-2. Divide dough into two halves and wrap each half in plastic wrap. Let sit for 5 minutes.
-3. Roll out one half, sprinkling liberally with flour so it doesn't stick, to desired thickness (between 1/16" - 1/8").
-4. Roll dough sheet lengthwise, cut on alternating diagonals into approximately ½" wide noodles, and separate. Spread out onto foil-lined baking sheet, cover loosely with plastic wrap, and freeze. Repeat with remaining half of dough.
-5. Once the noodles <span style='display: none;'>moodles</span> are frozen, remove from the baking sheets and place into gallon-size freezer bag, and return to freezer.
-
+1. Put potatoes in large pot of cold water, bring to a boil and then cook for 15-17 minutes or until tender. Drain thoroughly.
+2. Add sour cream, milk, and butter, blending with a hand mixer until smooth and butter is melted. Stir in peas and scallions; season with salt and pepper.
