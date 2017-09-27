@@ -15,7 +15,7 @@ header:
 * 4 ounces gingersnap cookies *about 16 if using Nabisco*
 * 1 cup pecans
 * 4 tablespoons unsalted butter *melted*
-*3 tablespoons light brown sugar
+* 3 tablespoons light brown sugar
 
 ### Filling and Assembly
 * 1 12-ounce package fresh (or frozen, thawed) cranberries, plus 4 ounces (about 1¼ cups) for serving
