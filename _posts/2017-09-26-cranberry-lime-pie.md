@@ -32,7 +32,7 @@ header:
 ## INSTRUCTIONS
 
 ### Crust
-Preheat oven to 350°. Pulse cookies in a food processor until very finely ground (you should have about 1 cup). Add pecans; pulse until finely ground. Add butter and brown sugar; pulse to combine. Transfer to a deep 9" pie dish. Using a measuring cup, press firmly onto bottom and up sides of dish. Bake until firm and slightly darkened in color, 10–15 minutes. If crust slides down sides, gently press back up. Let cool.
+Preheat oven to 350°F. Pulse cookies in a food processor until very finely ground (you should have about 1 cup). Add pecans; pulse until finely ground. Add butter and brown sugar; pulse to combine. Transfer to a deep 9" pie dish. Using a measuring cup, press firmly onto bottom and up sides of dish. Bake until firm and slightly darkened in color, 10–15 minutes. If crust slides down sides, gently press back up. Let cool.
 
 ### Filling and Assembly
 1. Bring 12 oz. cranberries, 1 cup granulated sugar, and ¼ cup water to a boil in a large saucepan over medium-high. Reduce heat; simmer until cranberries burst and most of the liquid evaporates, 12–15 minutes. Let cool. Purée in a blender until very smooth.
