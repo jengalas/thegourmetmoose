@@ -23,7 +23,7 @@ header:
 2. Put beans into boiling water for 5 minutes.
 3. In the meantime, cut bacon into ½-inch squares. Brown in 10-inch skillet.
 4. Remove bacon; reserve 1 tablespoon bacon drippings.
-5. Drain beans; saute in bacon drippings for 2 minutes.
-6. Add mushrooms and saute for 2-4 minutes.
+5. Drain beans; sauté in bacon drippings for 2 minutes.
+6. Add mushrooms and sauté for 2-4 minutes.
 7. Add chicken broth, lemon pepper seasoning and black pepper.
-8. Saute 2-3 minutes longer and serve.
+8. Sauté 2-3 minutes longer and serve.
