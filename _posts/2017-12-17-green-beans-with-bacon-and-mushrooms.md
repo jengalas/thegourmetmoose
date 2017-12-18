@@ -2,7 +2,7 @@
 title: Green Beans with Bacon and Mushrooms
 categories: moosefood
 tags:
-  - side dish
+  - side-dish
   - American
 excerpt: ""
 header:

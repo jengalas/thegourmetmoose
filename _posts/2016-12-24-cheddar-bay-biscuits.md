@@ -3,7 +3,7 @@ title: "Cheddar Bay Biscuits"
 categories: recipes-to-try
 tags: 
   - bread
-  - side dish
+  - side-dish
 excerpt: "From [food.com](http://www.food.com/recipe/red-lobster-cheddar-bay-biscuits-31206)."
 header:
   teaser: cheddar-bay-biscuits-150x150.jpg

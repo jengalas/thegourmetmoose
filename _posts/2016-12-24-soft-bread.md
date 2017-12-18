@@ -3,7 +3,7 @@ title: "Soft Bread"
 categories: recipes-to-try
 tags: 
   - bread
-  - side dish
+  - side-dish
 excerpt: "Adapted from [CookArr](http://cookarr.com/recipes/soft-bread)."
 header:
   teaser: soft-bread-150x150.jpg
