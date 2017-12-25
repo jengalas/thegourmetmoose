@@ -5,7 +5,7 @@ tags:
   - dessert
 excerpt: "I make half the recipe, which perfectly fills my two glass fruitcake pans (lined on the bottom with parchment or waxed paper). I baked them for 2 hours, 45 minutes at 250°F but next year we'll try a little less time (5-10 minutes less)."
 header:
-  teaser: 
+  teaser: white-fruit-cake-150x150.jpg
 ---
 
 ## INGREDIENTS
