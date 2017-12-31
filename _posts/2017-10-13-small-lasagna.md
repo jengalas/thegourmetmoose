@@ -16,7 +16,7 @@ header:
 * 1 tablespoon parsley flakes
 * 8 ounces mozzarella *shredded*
 * 4 ounces muenster *shredded*
-* grated romano
+* grated Pecorino Romano
 * 24 ounce jar Ragu traditional sauce
 
 ## INSTRUCTIONS
