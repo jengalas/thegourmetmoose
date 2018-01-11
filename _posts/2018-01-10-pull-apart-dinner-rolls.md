@@ -10,7 +10,7 @@ header:
 ---
 
 ## INGREDIENTS
-* 2-2 1/4 cups unbleached all-purpose flour
+* 2-2¼ cups unbleached all-purpose flour
 * 1 envelope (2¼ teaspoons) Fleishmann's yeast, not rapid rise yeast
 * 2 generous tablespoons sugar
 * ½ teaspoon salt
