@@ -16,7 +16,7 @@ header:
 * 7 ounces (¾ cup plus 2 tablespoons) warm water
 * 3 ounces (¼ cup plus 2 tablespoons) mild-flavored lager
 * 1 tablespoon white vinegar
-* ¾ cup chopped kalamata olives
+* ¾-1 cup chopped kalamata olives
 * 1-2 tablespoons olive oil *optional*
 
 ## INSTRUCTIONS
